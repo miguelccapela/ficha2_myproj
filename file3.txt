@@ -1,18 +1,13 @@
-Este é o exemplo de um ficheiro de texto file3
+Este é exemplo de um ficheiro de texto file3
 
-Adicionei algumas linhas.
 
-Coisas random
-
-Coisas ao calha
+<h2>Bebidas</h2>
 
 
 
-Continuo a testar
+<ul>
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+</ul>
 
-
-
-
-
-
-Termino por aqui
